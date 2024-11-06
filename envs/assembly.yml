@@ -1,0 +1,10 @@
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - jupyter
+  - notebook
+  - nanoplot
+  - filtlong=0.2.1
+  - biopython
+  - apptainer
